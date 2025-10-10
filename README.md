@@ -1,5 +1,5 @@
 # Omarchy dotfiles
-Should be used on top of the default Omarchy installation, all of these files are
+Should be used on top of the default [Omarchy](https://omarchy.org/) installation, all of these files are
 for the home directory
 
 ---
