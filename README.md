@@ -14,7 +14,7 @@ sudo pacman -S git stow
 ## Setup
  - Pull the dotfiles
  ```
- git clone git@github.com:SasVel/EOS-i3-dotfiles.git
+ git clone git@github.com:SasVel/omarchy-dots.git
  ```
  - Run stow setup in your dotfiles folder
  ```
