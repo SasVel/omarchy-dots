@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=4.5
+Type=Application
+Name=Godot
+Comment=The Best engine that ever lived.
+Exec=/home/sasi/Programs/GameEngines/Godot/Godot_v4.5-stable_linux.x86_64
+Icon=godot
+Terminal=false
+

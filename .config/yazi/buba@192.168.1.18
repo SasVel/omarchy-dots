@@ -1,0 +1,14 @@
+[mgr]
+show_hidden = true
+linemode = "size"
+
+[opener]
+execute = [
+	{ run = './$1', orphan = true }
+]
+
+[open]
+append_rules = [
+	{ name = "*.x86_64", use = "execute" },
+]
+
