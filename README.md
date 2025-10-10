@@ -1,5 +1,6 @@
-# EOS-Sway-dotfiles
- My Endeavor OS Sway configuration
+# Omarchy dotfiles
+Should be used on top of the default Omarchy installation, all of these files are
+for the home directory
 
 ---
 ## Required packages
@@ -30,7 +31,3 @@ sudo pacman -S git stow
  ```
  ls -lah [directory]
  ```
-
----
-## Credits & Resources
- - [Arkboi's waybar config](https://github.com/arkboix/sway/tree/main)
