@@ -4,6 +4,6 @@ Type=Application
 Name=Godot
 Comment=The Best engine that ever lived.
 Exec=/home/sasi/Programs/GameEngines/Godot/Godot_v4.5-stable_linux.x86_64
-Icon=godot
+Icon=/home/Programs/GameEngines/Godot/icon_color.png
 Terminal=false
 
