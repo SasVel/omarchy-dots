@@ -14,3 +14,4 @@ alias godot="~/Programs/GameEngines/Godot/Godot_v4.5-stable_linux.x86_64"
 # alias p='python'
 
 export PYGAME_DETECT_AVX2=1
+export GDK_SCALE=1

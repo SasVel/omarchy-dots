@@ -10,4 +10,5 @@ if status is-interactive
 	source "$HOME/dotfiles/.bashrc_private"
   export XKB_DEFAULT_LAYOUT=us,bg
   export XKB_DEFAULT_OPTIONS=grp:alt_shift_toggle
+  export GDK_SCALE=1
 end
