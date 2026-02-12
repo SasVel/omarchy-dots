@@ -11,7 +11,3 @@ execute = [
 append_rules = [
 	{ name = "*.x86_64", use = "execute" },
 ]
-
-[[mgr.prepend_keymap]]
-on  = "M"
-run = "plugin mount"
