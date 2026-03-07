@@ -11,3 +11,7 @@ execute = [
 append_rules = [
 	{ name = "*.x86_64", use = "execute" },
 ]
+
+[[plugin.prepend_previewers]]
+url = "*.md"
+run = 'piper -- CLICOLOR_FORCE=1 glow -w=$w -s=dark "$1"'
