@@ -15,3 +15,8 @@ alias godot="~/Programs/GameEngines/Godot/Godot_v4.5-stable_linux.x86_64"
 
 export PYGAME_DETECT_AVX2=1
 export GDK_SCALE=1
+export PATH="$HOME/.local/bin:$PATH"
+
+export ANTHROPIC_AUTH_TOKEN="ollama"
+export ANTHROPIC_API_KEY=""
+export ANTHROPIC_BASE_URL="http://localhost:11434"
