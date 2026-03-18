@@ -12,3 +12,6 @@ if status is-interactive
   export XKB_DEFAULT_OPTIONS=grp:alt_shift_toggle
   export GDK_SCALE=1
 end
+
+# Added by LM Studio CLI tool (lms)
+set -gx PATH $PATH /home/sasi/.lmstudio/bin

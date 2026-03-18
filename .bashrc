@@ -20,3 +20,13 @@ export PATH="$HOME/.local/bin:$PATH"
 export ANTHROPIC_AUTH_TOKEN="ollama"
 export ANTHROPIC_API_KEY=""
 export ANTHROPIC_BASE_URL="http://localhost:11434"
+
+export ROCM_PATH=/opt/rocm
+export HSA_OVERRIDE_GFX_VERSION=13.0.0
+
+# Added by LM Studio CLI tool (lms)
+export PATH="$PATH:/home/sasi/.lmstudio/bin"
+
+export PATH="$HOME/.pyenv/bin:$PATH"
+eval "$(pyenv init --path)"
+eval "$(pyenv virtualenv-init -)"
