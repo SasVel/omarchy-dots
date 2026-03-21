@@ -7,7 +7,35 @@
 // custom settings, run `zed: open default settings` from the
 // command palette (cmd-shift-p / ctrl-shift-p)
 {
-	"git_panel": {
+	"context_servers": {
+  "arch-ops-server": {
+   "enabled": true,
+   "remote": false,
+   "settings": {}
+  }
+ },
+ "agent": {
+  "tool_permissions": {
+   "tools": {
+    "save_file": {
+     "always_allow": [
+      {
+       "pattern": "^/home/sasi/GameProjects/Langort/"
+      }
+     ]
+    }
+   }
+  },
+  "default_profile": "write",
+  "default_model": {
+   "provider": "ollama",
+   "model": "qwen3.5:0.8b",
+   "enable_thinking": false
+  },
+  "favorite_models": [],
+  "model_parameters": []
+ },
+ "git_panel": {
   "status_style": "label_color"
  },
  "disable_ai": false,

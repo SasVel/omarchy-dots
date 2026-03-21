@@ -1,0 +1,25 @@
+{"level":"info","ts":"2026-03-08T12:07:31.274+0200","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-03-08T12:07:40.962+0200","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-03-08T12:09:38.431+0200","caller":"ssh_config_file/config_io.go:82","msg":"SSH config successfully updated: /home/sasi/.ssh/config","service":"LAZYSSH"}
+{"level":"warn","ts":"2026-03-08T12:09:38.431+0200","caller":"ssh_config_file/config_io.go:61","msg":"failed to remove temporary file /home/sasi/.ssh/config20260308120938.tmp: remove /home/sasi/.ssh/config20260308120938.tmp: no such file or directory","service":"LAZYSSH"}
+{"level":"info","ts":"2026-03-08T12:09:40.699+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"info","ts":"2026-03-08T12:43:26.151+0200","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-03-08T12:43:27.961+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"info","ts":"2026-03-10T19:10:15.578+0200","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-03-10T19:10:56.312+0200","caller":"ssh_config_file/backup.go:151","msg":"Created original backup: /home/sasi/.ssh/config.original.backup","service":"LAZYSSH"}
+{"level":"info","ts":"2026-03-10T19:10:56.315+0200","caller":"ssh_config_file/backup.go:42","msg":"Created backup: /home/sasi/.ssh/config-1773162656312-lazyssh.backup","service":"LAZYSSH"}
+{"level":"info","ts":"2026-03-10T19:10:56.315+0200","caller":"ssh_config_file/config_io.go:82","msg":"SSH config successfully updated: /home/sasi/.ssh/config","service":"LAZYSSH"}
+{"level":"warn","ts":"2026-03-10T19:10:56.315+0200","caller":"ssh_config_file/config_io.go:61","msg":"failed to remove temporary file /home/sasi/.ssh/config20260310191056.tmp: remove /home/sasi/.ssh/config20260310191056.tmp: no such file or directory","service":"LAZYSSH"}
+{"level":"info","ts":"2026-03-10T19:10:58.663+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"mcserver1"}
+{"level":"error","ts":"2026-03-10T19:11:01.776+0200","caller":"services/server_service.go:164","msg":"ssh command failed","service":"LAZYSSH","alias":"mcserver1","error":"exit status 255"}
+{"level":"info","ts":"2026-03-10T19:11:07.934+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"mcserver1"}
+{"level":"error","ts":"2026-03-10T19:11:10.992+0200","caller":"services/server_service.go:164","msg":"ssh command failed","service":"LAZYSSH","alias":"mcserver1","error":"exit status 255"}
+{"level":"info","ts":"2026-03-10T19:11:11.134+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"error","ts":"2026-03-10T19:11:14.192+0200","caller":"services/server_service.go:164","msg":"ssh command failed","service":"LAZYSSH","alias":"bubaserver","error":"exit status 255"}
+{"level":"info","ts":"2026-03-10T19:14:32.869+0200","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-03-10T19:14:46.793+0200","caller":"ssh_config_file/backup.go:42","msg":"Created backup: /home/sasi/.ssh/config-1773162886790-lazyssh.backup","service":"LAZYSSH"}
+{"level":"info","ts":"2026-03-10T19:14:46.793+0200","caller":"ssh_config_file/config_io.go:82","msg":"SSH config successfully updated: /home/sasi/.ssh/config","service":"LAZYSSH"}
+{"level":"warn","ts":"2026-03-10T19:14:46.793+0200","caller":"ssh_config_file/config_io.go:61","msg":"failed to remove temporary file /home/sasi/.ssh/config20260310191446.tmp: remove /home/sasi/.ssh/config20260310191446.tmp: no such file or directory","service":"LAZYSSH"}
+{"level":"info","ts":"2026-03-10T19:14:48.395+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"mcserver1"}
+{"level":"info","ts":"2026-03-21T10:08:12.056+0200","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-03-21T10:08:50.131+0200","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
