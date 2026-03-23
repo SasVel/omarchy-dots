@@ -6,6 +6,10 @@ linemode = "size"
 execute = [
 	{ run = './$1', orphan = true }
 ]
+edit = [
+  { run = 'nvim "$@"', desc = "nvim", block = true },
+  { run = 'sudo nvim "$@"', desc = "sudo nvim", block = true }
+]
 
 [open]
 append_rules = [
