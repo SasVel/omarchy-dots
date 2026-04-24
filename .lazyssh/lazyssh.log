@@ -23,3 +23,97 @@
 {"level":"info","ts":"2026-03-10T19:14:48.395+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"mcserver1"}
 {"level":"info","ts":"2026-03-21T10:08:12.056+0200","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
 {"level":"info","ts":"2026-03-21T10:08:50.131+0200","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-03-23T15:10:41.174+0200","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-03-23T15:10:43.423+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"info","ts":"2026-03-23T16:06:08.301+0200","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-03-23T16:06:09.417+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"info","ts":"2026-03-23T16:11:47.624+0200","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-03-23T16:11:48.560+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"error","ts":"2026-03-23T16:16:23.876+0200","caller":"services/server_service.go:164","msg":"ssh command failed","service":"LAZYSSH","alias":"bubaserver","error":"exit status 255"}
+{"level":"info","ts":"2026-03-23T16:17:29.902+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"info","ts":"2026-03-23T16:43:19.717+0200","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-03-23T16:43:20.952+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"info","ts":"2026-03-23T16:56:16.354+0200","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-03-23T16:56:17.120+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"error","ts":"2026-03-23T16:57:30.646+0200","caller":"services/server_service.go:164","msg":"ssh command failed","service":"LAZYSSH","alias":"bubaserver","error":"exit status 255"}
+{"level":"info","ts":"2026-03-23T16:58:00.501+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"info","ts":"2026-03-23T16:58:05.226+0200","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-03-23T16:58:05.961+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"info","ts":"2026-03-23T16:58:24.697+0200","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-03-23T16:58:26.173+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"error","ts":"2026-03-23T16:58:27.167+0200","caller":"services/server_service.go:164","msg":"ssh command failed","service":"LAZYSSH","alias":"bubaserver","error":"exit status 255"}
+{"level":"info","ts":"2026-03-23T16:58:28.452+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"error","ts":"2026-03-23T16:58:28.458+0200","caller":"services/server_service.go:164","msg":"ssh command failed","service":"LAZYSSH","alias":"bubaserver","error":"exit status 255"}
+{"level":"info","ts":"2026-03-23T16:58:28.932+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"error","ts":"2026-03-23T16:58:28.937+0200","caller":"services/server_service.go:164","msg":"ssh command failed","service":"LAZYSSH","alias":"bubaserver","error":"exit status 255"}
+{"level":"info","ts":"2026-03-23T16:58:29.282+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"error","ts":"2026-03-23T16:58:29.287+0200","caller":"services/server_service.go:164","msg":"ssh command failed","service":"LAZYSSH","alias":"bubaserver","error":"exit status 255"}
+{"level":"info","ts":"2026-03-23T16:58:29.592+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"error","ts":"2026-03-23T17:23:53.780+0200","caller":"services/server_service.go:164","msg":"ssh command failed","service":"LAZYSSH","alias":"bubaserver","error":"exit status 255"}
+{"level":"info","ts":"2026-03-23T17:24:48.509+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"error","ts":"2026-03-23T17:24:49.569+0200","caller":"services/server_service.go:164","msg":"ssh command failed","service":"LAZYSSH","alias":"bubaserver","error":"exit status 255"}
+{"level":"info","ts":"2026-03-23T17:24:50.449+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"info","ts":"2026-03-23T17:44:46.166+0200","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-03-23T17:44:47.001+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"info","ts":"2026-03-23T18:06:23.269+0200","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-03-23T18:06:24.265+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"info","ts":"2026-03-23T18:07:57.010+0200","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-03-24T10:31:26.186+0200","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-03-24T10:31:27.023+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"info","ts":"2026-03-24T15:41:17.602+0200","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-03-24T15:43:57.735+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"error","ts":"2026-03-24T15:44:00.834+0200","caller":"services/server_service.go:164","msg":"ssh command failed","service":"LAZYSSH","alias":"bubaserver","error":"exit status 255"}
+{"level":"info","ts":"2026-03-24T15:57:39.084+0200","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-03-24T15:57:40.888+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"info","ts":"2026-03-24T15:59:59.665+0200","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-03-24T16:00:00.910+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"error","ts":"2026-03-24T16:00:04.994+0200","caller":"services/server_service.go:164","msg":"ssh command failed","service":"LAZYSSH","alias":"bubaserver","error":"exit status 255"}
+{"level":"info","ts":"2026-03-24T16:00:05.950+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"error","ts":"2026-03-24T16:00:09.026+0200","caller":"services/server_service.go:164","msg":"ssh command failed","service":"LAZYSSH","alias":"bubaserver","error":"exit status 255"}
+{"level":"info","ts":"2026-03-24T16:08:21.526+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"error","ts":"2026-03-24T16:08:24.642+0200","caller":"services/server_service.go:164","msg":"ssh command failed","service":"LAZYSSH","alias":"bubaserver","error":"exit status 255"}
+{"level":"info","ts":"2026-03-24T16:13:16.738+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"error","ts":"2026-03-24T16:13:19.810+0200","caller":"services/server_service.go:164","msg":"ssh command failed","service":"LAZYSSH","alias":"bubaserver","error":"exit status 255"}
+{"level":"info","ts":"2026-03-24T16:13:23.068+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"mcserver1"}
+{"level":"error","ts":"2026-03-24T16:13:26.146+0200","caller":"services/server_service.go:164","msg":"ssh command failed","service":"LAZYSSH","alias":"mcserver1","error":"exit status 255"}
+{"level":"info","ts":"2026-03-24T16:17:56.412+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"error","ts":"2026-03-24T16:17:56.482+0200","caller":"services/server_service.go:164","msg":"ssh command failed","service":"LAZYSSH","alias":"bubaserver","error":"exit status 255"}
+{"level":"info","ts":"2026-03-24T16:23:28.060+0200","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-03-24T16:23:31.735+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"mcserver1"}
+{"level":"error","ts":"2026-03-24T16:26:13.900+0200","caller":"services/server_service.go:164","msg":"ssh command failed","service":"LAZYSSH","alias":"mcserver1","error":"exit status 127"}
+{"level":"info","ts":"2026-03-24T16:34:22.674+0200","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-03-24T16:34:24.190+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"mcserver1"}
+{"level":"error","ts":"2026-03-24T16:34:50.768+0200","caller":"services/server_service.go:164","msg":"ssh command failed","service":"LAZYSSH","alias":"mcserver1","error":"exit status 255"}
+{"level":"info","ts":"2026-03-24T16:36:04.310+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"mcserver1"}
+{"level":"info","ts":"2026-03-24T16:37:37.996+0200","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-03-24T16:37:38.891+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"mcserver1"}
+{"level":"info","ts":"2026-03-24T16:47:33.578+0200","caller":"services/server_service.go:172","msg":"ssh end","service":"LAZYSSH","alias":"mcserver1"}
+{"level":"info","ts":"2026-03-24T16:49:32.264+0200","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-03-24T20:09:01.309+0200","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-03-24T20:09:03.139+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"info","ts":"2026-03-24T20:14:26.010+0200","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-03-24T20:14:28.336+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"info","ts":"2026-03-25T10:01:46.586+0200","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-03-25T10:01:49.156+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"info","ts":"2026-03-25T10:38:51.068+0200","caller":"services/server_service.go:172","msg":"ssh end","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"info","ts":"2026-03-25T10:38:52.711+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"mcserver1"}
+{"level":"info","ts":"2026-03-25T10:39:54.537+0200","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-03-25T10:42:09.643+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"info","ts":"2026-03-25T10:45:00.110+0200","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-03-25T10:45:06.055+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"mcserver1"}
+{"level":"info","ts":"2026-03-25T10:47:13.391+0200","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-03-25T10:53:34.822+0200","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-03-25T10:53:37.788+0200","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"mcserver1"}
+{"level":"info","ts":"2026-03-26T10:46:28.146+0200","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-04-01T15:57:22.320+0300","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-04-01T15:57:24.619+0300","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"info","ts":"2026-04-15T14:05:37.702+0300","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-04-15T14:05:42.330+0300","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"info","ts":"2026-04-15T14:58:22.581+0300","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-04-15T14:58:23.736+0300","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"info","ts":"2026-04-15T14:58:56.291+0300","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-04-15T14:58:57.546+0300","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"info","ts":"2026-04-15T15:25:05.317+0300","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-04-15T15:25:07.202+0300","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"info","ts":"2026-04-15T16:04:36.451+0300","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-04-15T16:04:38.067+0300","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}

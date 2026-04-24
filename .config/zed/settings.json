@@ -7,7 +7,34 @@
 // custom settings, run `zed: open default settings` from the
 // command palette (cmd-shift-p / ctrl-shift-p)
 {
-	"context_servers": {
+"edit_predictions": {
+"ollama": {
+"prompt_format": "qwen"
+},
+ "provider": "ollama"
+},
+ "show_edit_predictions": false,
+ "show_completion_documentation": true,
+ "inline_code_actions": true,
+ "inlay_hints": {
+"enabled": true,
+ "show_other_hints": true,
+ "show_value_hints": true
+},
+ "icon_theme": "Modern Icons (Dark)",
+ "context_servers": {
+  "godot": {
+   "enabled": true,
+   "remote": false,
+   "command": "npx",
+   "args": [
+    "@coding-solo/godot-mcp"
+   ],
+   "env": {
+    "DEBUG": "true",
+    "GODOT_PATH": "/home/sasi/Programs/GameEngines/Godot/Godot_v4.6-stable_linux.x86_64"
+   }
+  },
   "arch-ops-server": {
    "enabled": true,
    "remote": false,
@@ -17,6 +44,9 @@
  "agent": {
   "tool_permissions": {
    "tools": {
+    "terminal": {
+     "default": "allow"
+    },
     "save_file": {
      "always_allow": [
       {
@@ -29,7 +59,7 @@
   "default_profile": "write",
   "default_model": {
    "provider": "ollama",
-   "model": "qwen3.5:0.8b",
+   "model": "qwen3.5:9b",
    "enable_thinking": false
   },
   "favorite_models": [],
@@ -61,7 +91,7 @@
 	"theme": {
 		"mode": "dark",
 		"light": "Zedokai Darker (Filter Octagon)",
-		"dark": "Godot"
+		"dark": "Gruvbox Dark Hard"
 	},
 
 	// git status.
@@ -88,5 +118,14 @@
 
    // Scroll the whole view if your cursor is less than 20 horizontal lines
    // away from either part of your file viewport.
-   "vertical_scroll_margin": 20
+   "vertical_scroll_margin": 20,
+
+   // Exclude files from the project panel
+   "file_scan_exclusions": [
+       "*.uid",
+       "*.tscn",
+   ],
+   "outline_panel": {
+       "dock":"right"
+   }
 }
