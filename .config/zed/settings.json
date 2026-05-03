@@ -60,7 +60,7 @@
   "default_model": {
    "provider": "ollama",
    "model": "qwen3.5:9b",
-   "enable_thinking": false
+   "enable_thinking": true
   },
   "favorite_models": [],
   "model_parameters": []
