@@ -13,7 +13,7 @@ edit = [
 
 [open]
 append_rules = [
-	{ name = "*.x86_64", use = "execute" },
+	{ url = "*.x86_64", use = "execute" },
 ]
 
 [[plugin.prepend_previewers]]
