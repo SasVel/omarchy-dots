@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=4.5
-Type=Application
-Name=Godot Mono
-Comment=The Best engine that ever lived, now in C#.
-Exec=/home/sasi/Programs/GameEngines/Godot/Godot_v4.5.1-stable_mono_linux_x86_64/Godot_v4.5.1-stable_mono_linux.x86_64
-Icon=/home/Programs/GameEngines/Godot/icon_bw.png
-Terminal=false
-
