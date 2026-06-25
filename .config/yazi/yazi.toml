@@ -16,6 +16,13 @@ append_rules = [
 	{ url = "*.x86_64", use = "execute" },
 ]
 
-[[plugin.prepend_previewers]]
-url = "*.md"
-run = 'piper -- CLICOLOR_FORCE=1 glow -w=$w -s=dark "$1"'
+[plugin]
+prepend_previewers = [
+    { url = "*.md", run = 'piper -- CLICOLOR_FORCE=1 glow -w=$w -s=dark "$1"' },
+    { url = "*.mp3", run = "muse" },
+    { url = "*.wav", run = "muse" },
+    { url = "*.flac", run = "muse" },
+    { url = "*.ogg", run = "muse" },
+    { url = "*.m4a", run = "muse" },
+    { mime = "audio/*", run = "muse" },
+]
