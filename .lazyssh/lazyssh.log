@@ -117,3 +117,16 @@
 {"level":"info","ts":"2026-04-15T15:25:07.202+0300","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
 {"level":"info","ts":"2026-04-15T16:04:36.451+0300","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
 {"level":"info","ts":"2026-04-15T16:04:38.067+0300","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"info","ts":"2026-07-03T20:00:53.991+0300","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-07-03T20:02:24.625+0300","caller":"ssh_config_file/backup.go:42","msg":"Created backup: /home/sasi/.ssh/config-1783098144622-lazyssh.backup","service":"LAZYSSH"}
+{"level":"info","ts":"2026-07-03T20:02:24.625+0300","caller":"ssh_config_file/config_io.go:82","msg":"SSH config successfully updated: /home/sasi/.ssh/config","service":"LAZYSSH"}
+{"level":"warn","ts":"2026-07-03T20:02:24.625+0300","caller":"ssh_config_file/config_io.go:61","msg":"failed to remove temporary file /home/sasi/.ssh/config20260703200224.tmp: remove /home/sasi/.ssh/config20260703200224.tmp: no such file or directory","service":"LAZYSSH"}
+{"level":"info","ts":"2026-07-03T20:02:26.358+0300","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"sasipi"}
+{"level":"error","ts":"2026-07-03T20:12:32.724+0300","caller":"services/server_service.go:164","msg":"ssh command failed","service":"LAZYSSH","alias":"sasipi","error":"exit status 255"}
+{"level":"info","ts":"2026-07-09T13:50:04.809+0300","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-07-09T15:01:47.027+0300","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-07-09T15:01:49.558+0300","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"error","ts":"2026-07-09T15:02:29.731+0300","caller":"services/server_service.go:164","msg":"ssh command failed","service":"LAZYSSH","alias":"bubaserver","error":"exit status 255"}
+{"level":"info","ts":"2026-07-09T15:02:35.473+0300","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
+{"level":"info","ts":"2026-07-09T15:11:28.895+0300","caller":"ui/tui.go:70","msg":"starting TUI application","service":"LAZYSSH","version":"0.3.0","commit":"460bb0ffcf8c44220cfb1060281ed6a9fdd8014b"}
+{"level":"info","ts":"2026-07-09T15:11:31.710+0300","caller":"services/server_service.go:158","msg":"ssh start","service":"LAZYSSH","alias":"bubaserver"}
